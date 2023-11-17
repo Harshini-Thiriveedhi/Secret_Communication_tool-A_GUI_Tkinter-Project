@@ -2,3 +2,5 @@ We create a tool with the help of which we can encrypt and decrypt secret messag
 
 The interface is built using tkinter.
 
+Tech stack-python.
+
